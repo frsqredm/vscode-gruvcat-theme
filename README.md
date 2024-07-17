@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://marketplace.visualstudio.com/items?itemName=frsqredm.gruvcat">
-    <img src="https://raw.githubusercontent.com/frsqredm/vscode-gruvcat-theme/master/images/icon.png">
+    <img src="https://raw.githubusercontent.com/frsqredm/vscode-gruvcat-theme/master/images/icon.png" width="100" height="100">
   </a>
   <br>
   Gruvcat
@@ -57,12 +57,12 @@ See [changelog](CHANGELOG.md).
 ## Credits
 
 Special thank to 
-[Pavel Pertsev](https://github.com/morhetz), the creator of [gruvbox](https://github.com/morhetz/gruvbox) original theme.
+- [Pavel Pertsev](https://github.com/morhetz), the creator of [gruvbox](https://github.com/morhetz/gruvbox) original theme.
 
-[jdinhify](https://github.com/jdinhify), the creator of [vscode-theme-gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox).
+- [jdinhify](https://github.com/jdinhify), the creator of [vscode-theme-gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox).
 
-[Catppuccin](https://github.com/catppuccin/catppuccin) original theme.
+- [Catppuccin](https://github.com/catppuccin/catppuccin) original theme.
 
-[thanhvule0310](https://github.com/thanhvule0310) at this [conversation](https://github.com/catppuccin/nvim/discussions/323#discussioncomment-5287724).
+- [thanhvule0310](https://github.com/thanhvule0310) at this [conversation](https://github.com/catppuccin/nvim/discussions/323#discussioncomment-5287724).
 
 Copyright (C) 2024 [FD](https://github.com/frsqredm)
