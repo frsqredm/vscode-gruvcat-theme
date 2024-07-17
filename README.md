@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://marketplace.visualstudio.com/items?itemName=frsqredm.gruvcat">
-    <img src="https://raw.githubusercontent.com/frsqredm/vscode-gruvcat-theme/master/images/icon.png" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/frsqredm/vscode-gruvcat-theme/master/images/icon.png" width="180" height="180">
   </a>
   <br>
   Gruvcat
