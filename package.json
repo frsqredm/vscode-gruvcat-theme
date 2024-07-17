@@ -1,0 +1,52 @@
+{
+  "name": "gruvcat",
+  "displayName": "Gruvcat Theme",
+  "description": "Gruvcat Theme",
+  "version": "1.0.0",
+  "author": "frsqredm (https://github.com/frsqredm)",
+  "contributors": [
+  ],
+  "publisher": "frsqredm",
+  "engines": {
+    "vscode": "^1.67.2"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#1d2021",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/frsqredm/vscode-gruvcat-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frsqredm/vscode-gruvcat-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gruvcat Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvcat-dark.json"
+      },
+      {
+        "label": "Gruvcat Light",
+        "uiTheme": "vs",
+        "path": "./themes/gruvcat-light.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "ovsx": "^0.8.3",
+    "semantic-release": "^22.0.5",
+    "vsce": "^2.9.0"
+  },
+  "private": true,
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "license": "MIT"
+}

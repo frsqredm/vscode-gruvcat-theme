@@ -1,0 +1,60 @@
+// original from https://github.com/morhetz/gruvbox
+
+        original       mixed
+## dark
+bg0-h   #1d2021
+bg0     #282828       #1d2021  
+bg0-s   #32302f       #282828  
+bg1     #3c3836       #292929  
+bg2     #504945       #404040  
+bg3     #665c54       #4d4d4d  
+bg4     #7c6f64       #595959  
+gray    #928374       #928374  
+fg0     #fbf1c7                # no change
+fg1     #ebdbb2       #ebdbb2  
+fg2     #d5c4a1       #d5c4a1  
+fg3     #bdae93       #bdae93  
+fg4     #a89984       #a89984  
+red1    #cc241d       #ea6962  
+red2    #fb4934       #ea6962  
+green1  #98971a       #a9b665  
+green2  #b8bb26       #a9b665  
+yellow1 #d79921       #d8a657  
+yellow2 #fabd2f       #d8a657  
+blue1   #458588       #7daea3  
+blue2   #83a598       #7daea3  
+purple1 #b16286       #d3869b  
+purple2 #d3869b       #d3869b  
+aqua1   #689d6a       #89b482  
+aqua2   #8ec07c       #89b482  
+orange1 #d65d0e       #e78a4e  
+orange2 #fe8019       #e78a4e  
+
+## light
+bg0-h   #f9f5d7              
+bg0     #fbf1c7       #f9f5d7  
+bg0-s   #f2e5bc       #e3dec3  
+bg1     #ebdbb2       #d1c7a3  
+bg2     #d5c4a1       #bfb695  
+bg3     #bdae93       #a69d81  
+bg4     #a89984       #8c856d  
+gray    #928374       #928374
+fg0     #282828                # not use
+fg1     #3c3836       #654735
+fg2     #504945       #73503c
+fg3     #665c54       #805942
+fg4     #7c6f64       #8c6249
+red1    #cc241d       #c14a4a  
+red2    #9d0006       #c14a4a  
+green1  #98971a       #6c782e  
+green2  #79740e       #6c782e  
+yellow1 #d79921       #b47109  
+yellow2 #b57614       #b47109  
+blue1   #458588       #45707a  
+blue2   #076678       #45707a  
+purple1 #b16286       #945e80  
+purple2 #8f3f71       #945e80  
+aqua1   #689d6a       #4c7a5d  
+aqua2   #427b58       #4c7a5d  
+orange1 #d65d0e       #c35e0a  
+orange2 #af3a03       #c35e0a  
