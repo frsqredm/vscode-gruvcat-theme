@@ -10,7 +10,7 @@ bg2     #504945       #404040
 bg3     #665c54       #4d4d4d  
 bg4     #7c6f64       #595959  
 gray    #928374       #928374  
-fg0     #fbf1c7                # no change
+fg0     #fbf1c7       # no change
 fg1     #ebdbb2       #ebdbb2  
 fg2     #d5c4a1       #d5c4a1  
 fg3     #bdae93       #bdae93  
@@ -39,22 +39,22 @@ bg2     #d5c4a1       #bfb695
 bg3     #bdae93       #a69d81  
 bg4     #a89984       #8c856d  
 gray    #928374       #928374
-fg0     #282828                # not use
+fg0     #282828       # not use
 fg1     #3c3836       #654735
 fg2     #504945       #73503c
 fg3     #665c54       #805942
 fg4     #7c6f64       #8c6249
-red1    #cc241d       #c14a4a  
+red1    #cc241d       #c14a4a  #de2922 ok
 red2    #9d0006       #c14a4a  
-green1  #98971a       #6c782e  
+green1  #98971a       #6c782e  #7EA63A ok
 green2  #79740e       #6c782e  
-yellow1 #d79921       #b47109  
+yellow1 #d79921       #b47109  #d99208 ok
 yellow2 #b57614       #b47109  
-blue1   #458588       #45707a  
+blue1   #458588       #45707a  #33879a ok
 blue2   #076678       #45707a  
-purple1 #b16286       #945e80  
+purple1 #b16286       #945e80  #D3597A ok
 purple2 #8f3f71       #945e80  
-aqua1   #689d6a       #4c7a5d  
+aqua1   #689d6a       #4c7a5d  #3d9c74 ok
 aqua2   #427b58       #4c7a5d  
-orange1 #d65d0e       #c35e0a  
+orange1 #d65d0e       #c35e0a  #e07a33 ok
 orange2 #af3a03       #c35e0a  
